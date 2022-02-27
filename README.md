@@ -63,7 +63,7 @@ Each time the `get_production_data` function is called a new dictionary of produ
 
 
 <p align="center">
-  <img width="auto" src="img/example_well.PNG">
+  <img width="auto" src="https://github.com/davidzajac1/zoil/blob/main/img/example_well.png?raw=true">
 </p>
 
 ## To Do
