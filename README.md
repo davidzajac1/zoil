@@ -4,12 +4,12 @@
 ![License](https://img.shields.io/badge/License-MIT-informational?style=flat)
 ![Version](https://img.shields.io/badge/Version-0.0.3-informational?style=flat)
 
-ZOil is a python library used to generate random Oil and Gas data. Most Oil and Gas data is either propreitary or costly to aquire. YOil lets you quickly generate an unlimited amount of production data that can be used to for testing, anonymization and much more. ZOil was inspired by the [`Faker`](https://github.com/joke2k/faker) library.
+ZOil is a python library used to generate random Oil and Gas data. Most Oil and Gas data is either propreitary or costly to aquire. ZOil lets you quickly generate an unlimited amount of production data that can be used to for testing, anonymization and much more. ZOil was inspired by the [`Faker`](https://github.com/joke2k/faker) library.
 
 ## Installation
 
 ```bash
-pip install yoil
+pip install zoil
 ```
 
 ## Usage
@@ -79,4 +79,4 @@ Each time the `get_production_data` function is called a new dictionary of produ
 For any bugs, issues, suggestions please create an Issue or a Pull Request. 
 
 ## License
-ZOil is released under the MIT License. See the bundled [LICENSE](LICENSE) file for details.
+ZOil is released under the MIT License. See the bundled [LICENSE](https://github.com/davidzajac1/zoil/blob/main/LICENSE) file for details.
